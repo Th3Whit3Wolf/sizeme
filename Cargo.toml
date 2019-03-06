@@ -1,0 +1,9 @@
+[package]
+name = "sizeme"
+version = "0.4.0"
+authors = ["Whi73_W0lf <Wh173_W0lf@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+crossbeam = "0.4"
+sys-info = "0.5.6"
